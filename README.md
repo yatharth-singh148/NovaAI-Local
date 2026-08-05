@@ -1,6 +1,7 @@
 <p align="center">
   <img src="assets/NovaAI.png" alt="Nova Logo" width="180"/>
 </p>
+
 # Nova — Local Desktop AI Assistant
 
 Nova is a production-oriented local AI assistant designed for Windows desktop workflows. It combines a Python backend, local small language models, system-level automation tools, and a desktop-oriented UI architecture to deliver an autonomous assistant that can interact with local apps, browser windows, and external data sources.
